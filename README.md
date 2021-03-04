@@ -1,5 +1,5 @@
 # Vendas Api
-#### Api desenvolvido em Spring Boot, Java 11 e Swagger.  
+#### Api desenvolvida em Spring Boot, Java 11 e Swagger.  
 
 ## :rocket: Tecnologias utilizadas:
 
